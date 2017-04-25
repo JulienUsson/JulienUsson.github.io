@@ -1,0 +1,45 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+  font-family: 'Roboto', sans-serif;
+}
+
+.resume {
+  height: 33%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.resume p {
+  font-size: 1.2em;
+}
+
+
+.resume a {
+  color: inherit;
+  font-size: 1.6em;
+  font-weight: bold;
+}
+
+
+#resume {
+  background-color: #40c4ff;
+  color: #212121;
+}
+
+#terminal-resume {
+  background-color: black;
+  color: white;
+}
+
+#json-resume {
+  background-color: white;
+  color: black;
+}
+
+#json-resume a {
+  font-size: 1em;
+}
